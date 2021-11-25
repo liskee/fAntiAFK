@@ -6,6 +6,6 @@ import org.bukkit.event.Listener;
 public class AntiAfk implements Listener {
     @EventHandler
     public void AntiAfkEvent(){
-        
+
     }
 }
