@@ -1,4 +1,4 @@
-afk-time: 5 # Time in seconds to kick player for being AFK | example: 300 (5 minutes)
+afk-time: 300 # Time in seconds to kick player for being AFK | example: 300 (5 minutes)
 kick-for-afk: true # Kick player? | example: true, false
 kick-message: §eYou have been AFK for too long! # Kick message. ! Use '§' instead of '&' for coloring ! | example: §eYou have been AFK for too long!
 minimum-playercount-to-kick: 0 # How many players needs to be on a server to kick player for being AFK? | example: 5

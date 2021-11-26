@@ -54,7 +54,6 @@ public class Main extends JavaPlugin {
                         if (kickForAfk) {
 
                             int onlineplayers = Bukkit.getOnlinePlayers().size();
-                            Bukkit.broadcastMessage(String.valueOf(onlineplayers));
 
                             if (onlineplayers >= minimumPlayercountToKick){
 
@@ -72,6 +71,8 @@ public class Main extends JavaPlugin {
     }
 
     public void onDisable() {
+
+
 
     }
 
